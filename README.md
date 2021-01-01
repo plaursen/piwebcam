@@ -7,3 +7,4 @@ Enclosure for a (web)cam using Raspberry Pi Zero (W) and the Raspberry Pi HD cam
 
 
 
+Used as a USB cam with https://github.com/showmewebcam
